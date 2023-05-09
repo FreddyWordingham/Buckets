@@ -1,7 +1,7 @@
 # Buckets
 
 <p align="center">
-    <img src="./resources/images/logo.png" />
+    <img src="./resources/images/logo.svg" width="200" height="200" />
 </p>
 
 Scripts for using AWS S3 buckets.
