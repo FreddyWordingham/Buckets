@@ -63,6 +63,14 @@ Upload a file to a bucket.
 poetry run python scripts/upload.py <bucket> <file>
 ```
 
+### List files
+
+List the files in a bucket.
+
+```shell
+poetry run python scripts/list_files.py <bucket>
+```
+
 ### Download file
 
 Download a file from a bucket.
